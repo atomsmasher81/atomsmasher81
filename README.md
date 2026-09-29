@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kartik Gautam
-=====================================================================================================================================
+### Hi, I'm Kartik 👋
 
-* 🌍  I'm based in Bengaluru, India
-* ✉️  You can contact me at [kartikgautam171@gmail.com](mailto:kartikgautam171@gmail.com)
+I build, ship and scale products, from the first commit to 10M+ transactions a day.
+
+- 🔭 Building AI agents for healthcare at [RapidClaims](https://www.rapidclaims.ai/)
+- 🛠 Previously CTO at SignWith, Senior Engineer at TopHire, Tech Lead for payments at Credgenics
+- 📷 Off the clock: photography, astronomy, philosophy
+- 🌍 Bengaluru, India · ✉️ hello@kartikgautam.com · 🌐 [kartikgautam.com](https://kartikgautam.com)
 
 ### Skills
 
